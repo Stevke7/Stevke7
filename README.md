@@ -8,7 +8,6 @@ I really enjoy making fullstack applications using Next.js
 [![My Skills](https://skillicons.dev/icons?i=react,next,typescript&theme=dark)](https://linkedin.com/in/ljubisa-stevanovic-5bb489206/)
 
 ## Example of my work
-### Coffee Connoisseur- Show coffee stores near me
 <div align="center"> 
   <img src="https://github.com/Stevke7/Stevke7/blob/main/ezgif.com-video-to-gif-converter(1).gif" width="300"/>    
   <img src="https://github.com/Stevke7/Stevke7/blob/main/ezgif.com-video-to-gif-converter.gif" width="300"/>
