@@ -19,9 +19,7 @@ I really enjoy making fullstack applications using Next.js
 [![My Skills](https://skillicons.dev/icons?i=devto&theme=dark)](https://dev.to/zemo69)
 
 ## GitHub Metrics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stevke7&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Stevke7)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stevke7&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Stevke7)  
 
 
 
