@@ -17,7 +17,7 @@ I really enjoy making fullstack applications using Next.js
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/ljubisa-stevanovic-5bb489206/)
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/lj_stevanovic)
-[![My Skills](https://skillicons.dev/icons?i=react,next,typescript&theme=dark)](https://twitter.com/MrStevanovic)
+[![My Skills](https://skillicons.dev/icons?i=twitter=dark)](https://twitter.com/MrStevanovic)
 
 
 
