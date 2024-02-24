@@ -1,20 +1,28 @@
-### Hi there 👋, Ljubisa Stevanovic
-#### Software Developer
-![Software Developer](https://pbs.twimg.com/profile_banners/248596877/1708809640/1080x360)
+![Software Developer](https://github.com/Stevke7/Stevke7/blob/main/Ljubisa%20Stevanovic.png)
 
-I'm Ljubisa, a software developer based in Bijljina, Bosnia & Herzegovina. Currently working for a local Company making business web apps using React.js, Next.js, Angular.js, TypeScript...
+# Ljubisa Stevanovic
+I'm Ljubisa, a software developer based in Bijeljina, Bosnia & Herzegovina. Currently working for a local Company making business web apps using React.js, Next.js, Angular.js, TypeScript...
 I really enjoy making fullstack applications using Next.js
 
-Skills: NEXT JS / REACT / ANGULAR / TYPESCRIPT 
+## Skills & Experience
+[![My Skills](https://skillicons.dev/icons?i=react,next,typescript&theme=dark)](https://linkedin.com/in/ljubisa-stevanovic-5bb489206/)
 
-- 🔭 I’m currently working on Full Stack web shop 
-- 🌱 I’m currently learning Next.js 
+## Example of my work
+### Coffee Connoisseur- Show coffee stores near me
+<div align="center"> 
+  <img src="https://github.com/Stevke7/Stevke7/blob/main/ezgif.com-video-to-gif-converter(1).gif" width="300"/>    
+  <img src="https://github.com/Stevke7/Stevke7/blob/main/ezgif.com-video-to-gif-converter.gif" width="300"/>
+</div>
+
+## Socials
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/ljubisa-stevanovic-5bb489206/)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/lj_stevanovic)
+[![My Skills](https://skillicons.dev/icons?i=react,next,typescript&theme=dark)](https://twitter.com/MrStevanovic)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Stevke7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lj_stevanovic/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MrStevanovic)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stevke7&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Stevke7)  
+
 
 
