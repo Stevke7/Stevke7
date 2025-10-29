@@ -1,5 +1,3 @@
-![Software Developer](https://github.com/Stevke7/Stevke7/blob/main/Ljubisa%20Stevanovic.png)
-
 # Ljubisa Stevanovic
 My name is Ljubisa, a software developer from Bosnia & Herzegovina.
 
