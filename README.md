@@ -1,6 +1,8 @@
 # Ljubisa Stevanovic
 My name is Ljubisa, a software developer from Bosnia & Herzegovina.
 
+[![My GitFut card](https://gitfut.com/Stevke7.png)](https://gitfut.com/Stevke7)
+
 ## Skills & Experience
 ![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,react,ts,nextjs&theme=dark)
 
