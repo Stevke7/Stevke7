@@ -1,8 +1,8 @@
 # Ljubisa Stevanovic
-My name is Ljubisa, a software developer from Bosnia & Herzegovina.
+Software developer based in Bosnia & Herzegovina.
 
 ## Skills & Experience
-![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,react,ts,nextjs&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,react,ts,nextjs,vue,nuxtjs&theme=dark)
 
 
 ## Socials
