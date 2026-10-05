@@ -1,8 +1,7 @@
-# Ljubisa Stevanovic
-Software developer based in Bosnia & Herzegovina.
+# Hello 👋
 
-## Skills & Experience
-![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,react,ts,nextjs,vue,nuxtjs,docker&theme=dark)
+[Website](https://ljs-dev.vercel.app "Portfolio website")
+
 
 
 
